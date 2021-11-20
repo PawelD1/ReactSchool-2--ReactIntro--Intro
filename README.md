@@ -1,4 +1,4 @@
-# ReactSchool-React--Intro
+# ReactSchool[2]-ReactIntro--Intro
 Project in Visual Studio Code
 # Exercise
 Write a mini information service, e.g. an application that has data in the form of an array of objects. You can store the data in the App component. 
